@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TestRunner": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\v-kristarutz\\source\\repos\\XUnitTestProject\\bin\\Debug\\netcoreapp3.1\\XUnitTestProject.dll\""
+    }
+  }
+}
