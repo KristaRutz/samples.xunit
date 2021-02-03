@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TestRunner": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\v-kristarutz\\source\\repos\\CustomTestRunnerXunit\\samples.xunit\\AssemblyFixtureExample\\bin\\Debug\\net452\\AssemblyFixtureExample.dll\""
+    }
+  }
+}
